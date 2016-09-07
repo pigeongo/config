@@ -10,8 +10,8 @@ import (
     "io/ioutil"
     "reflect"
     "gopkg.in/yaml.v2"
-    "github.com/bileji/pigeon/libary/config"
     "github.com/wendal/errors"
+    "github.com/pigeongo/config"
 )
 
 type Config struct{}
